@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4eecf91d-3c86-4df2-890c-c6cd23f7f743": {
+      "ProjectGuid": "4eecf91d-3c86-4df2-890c-c6cd23f7f743",
+      "DisplayName": "DotNET Core MVC Image Upload and Retrieve",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
